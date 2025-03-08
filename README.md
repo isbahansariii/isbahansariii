@@ -33,7 +33,10 @@ I'm a passionate **Computer Science** student, game developer, and software engi
 
 ## 📫 Let's Connect!
 
+- **Email:** [ansariisbah427@gmail.com](mailto\:ansariisbah427@gmail.com)
+
 - **GitHub:** [isbahansariii](https://github.com/isbahansariii)
+
 - **LinkedIn:** [isbahansariii](https://www.linkedin.com/in/isbahansariii/)
 
 Always excited to collaborate and build something amazing! 🚀
