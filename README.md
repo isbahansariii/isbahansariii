@@ -1,6 +1,8 @@
-![Your paragraph text](https://github.com/user-attachments/assets/263c2803-ef95-4cce-a016-b9d15cb762ff)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/263c2803-ef95-4cce-a016-b9d15cb762ff" alt="Intro Text"  />
+</p>
 
-# 👋 Hi, I'm Isbah Ansari!
+<h1>👋 Hi, I'm Isbah Ansari!</h1>
 
 ## 🚀 About Me
 
@@ -34,39 +36,54 @@
 
 ## 💻 Languages and Tools:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isbahansariii&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbahansariii&layout=compact&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isbahansariii&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isbahansariii&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isbahansariii&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isbahansariii&show_icons=true&theme=dark" />
+</p>
 
 ---
 
 ## ➡️ Let's Connect:
 
-[![GitHub](https://img.shields.io/badge/GitHub-isbahansariii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isbahansariii)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isbahansariii&theme=dark)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isbahansariii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isbahansariii/)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isbahansariii&theme=dark" />
+</p>
+<p>
+  <a href="https://github.com/isbahansariii">
+    <img src="https://img.shields.io/badge/GitHub-isbahansariii-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/isbahansariii/">
+    <img src="https://img.shields.io/badge/LinkedIn-isbahansariii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 🚀 Always excited to collaborate and build something amazing!
+
