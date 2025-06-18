@@ -1,8 +1,8 @@
+<h1>👋 Hi, I'm Isbah Ansari!</h1>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/263c2803-ef95-4cce-a016-b9d15cb762ff" alt="Intro Text"  />
 </p>
-
-<h1>👋 Hi, I'm Isbah Ansari!</h1>
 
 ## 🚀 About Me
 
@@ -56,10 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbahansariii&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/263c2803-ef95-4cce-a016-b9d15cb762ff" alt="Intro Text"  />
 </p>
 
 ---
