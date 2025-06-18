@@ -15,7 +15,7 @@
       <p>👩🏻‍🎓 <strong>4th year (8th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
       <p>💭 Currently learning about <strong>AI-powered applications, MERN stack, and advanced game mechanics!</strong></p>
       <a href="mailto:ansariisbah427@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-via_Email-ansariisbah427@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Badge" />
+  <img src="https://img.shields.io/badge/Contact_Me-ansariisbah427@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Badge" />
 </a>
     </td>
     <td width="50%" valign="top">
