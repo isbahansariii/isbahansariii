@@ -7,10 +7,11 @@
   <img src="/Banner.png" alt="Intro Text" width="90%" />
 </p>
 
-## 🚀 About Me
 <table>
   <tr>
     <td width="50%" valign="top">
+      ## 🚀 About Me
+      
       <p>👩🏻‍💻 A passionate <strong>Full Stack Developer | Game Developer | Software Engineer</strong></p>
       <p>👩🏻‍🎓 <strong>4th year (7th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
       <p>💭 Currently learning about <strong>AI-powered applications, MERN stack, and advanced game mechanics!</strong></p>
