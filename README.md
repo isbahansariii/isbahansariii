@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="/Banner.png" alt="Intro Text" width="90%" height="400" border-radius="10" />
+  <img src="/Banner.png" alt="Intro Text" width="90%" style="border-radius: 20px;" />
 </p>
 
 ## 🚀 About Me
