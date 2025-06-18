@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
   <span style="font-family: Georgia, serif">Hi, I'm Isbah Ansari!</span>
 </h1>
 
 <p align="center">
-  <img src="/Banner.png" alt="Intro Text" width="80" />
+  <img src="/Banner.png" alt="Intro Text" width="80%" />
 </p>
 
 ## 🚀 About Me
