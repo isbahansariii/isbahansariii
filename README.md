@@ -12,9 +12,11 @@
     <td width="50%" valign="top">
       <h1>🚀 About Me</h1> 
       <p>👩🏻‍💻 A passionate <strong>Full Stack Developer | Game Developer | Software Engineer</strong></p>
-      <p>👩🏻‍🎓 <strong>4th year (7th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
+      <p>👩🏻‍🎓 <strong>4th year (8th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
       <p>💭 Currently learning about <strong>AI-powered applications, MERN stack, and advanced game mechanics!</strong></p>
-      <p>📧 Reach me at <a href="mailto:ansariisbah427@gmail.com"><strong>ansariisbah427@gmail.com</strong></a></p>
+      <a href="mailto:ansariisbah427@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Badge" />
+</a>
     </td>
     <td width="50%" valign="top">
       <p align="center">
