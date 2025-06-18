@@ -4,18 +4,31 @@
 </h1>
 
 <p align="center">
-  <img src="/Banner.png" alt="Intro Text" width="90%" style="border-radius: 20;" />
+  <img src="/Banner.png" alt="Intro Text" width="90%" />
 </p>
 
 ## 🚀 About Me
+<table>
+  <tr>
+    <td width="50%">
+      
+      👩🏻‍💻 A passionate **Full Stack Developer | Game Developer | Software Engineer**
 
-👩🏻‍💻 A passionate **Full Stack Developer | Game Developer | Software Engineer**
+      👩🏻‍🎓 **4th year (7th semester) Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.**
 
-👩🏻‍🎓 **4th year (7th semester) Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.**
+      💭 Currently learning about **AI-powered applications, MERN stack, and advanced game mechanics!**
 
-💭 Currently learning about **AI-powered applications, MERN stack, and advanced game mechanics!**
+      📧 Reach me at **[ansariisbah427@gmail.com](mailto:ansariisbah427@gmail.com)**
 
-📧 Reach me at **[ansariisbah427@gmail.com](mailto:ansariisbah427@gmail.com)**
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img src="/about.gif" alt="Intro Text" />
+      </p>
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
