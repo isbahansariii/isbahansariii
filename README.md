@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbahansariii&layout=compact&theme=dark" />
+  <img src="https://github.com/user-attachments/assets/263c2803-ef95-4cce-a016-b9d15cb762ff" alt="Intro Text"  />
 </p>
 
 ---
