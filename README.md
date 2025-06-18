@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/263c2803-ef95-4cce-a016-b9d15cb762ff" alt="Intro Text"  />
+  <img src="/Banner.png" alt="Intro Text" width="80" />
 </p>
 
 ## 🚀 About Me
