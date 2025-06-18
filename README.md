@@ -58,6 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbahansariii&layout=compact&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isbahansariii&layout=compact&theme=dark" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats:
