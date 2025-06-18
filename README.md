@@ -20,11 +20,12 @@
 
       📧 Reach me at **[ansariisbah427@gmail.com](mailto:ansariisbah427@gmail.com)**
     </td>
-    
     <td width="50%">
+    
       <p align="center">
         <img src="/about.gif" alt="Intro Text" />
       </p>
+      
     </td>
     
   </tr>
