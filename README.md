@@ -10,26 +10,20 @@
 ## 🚀 About Me
 <table>
   <tr>
-    <td width="50%">
-      
-      👩🏻‍💻 A passionate **Full Stack Developer | Game Developer | Software Engineer**
-
-      👩🏻‍🎓 **4th year (7th semester) Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.**
-
-      💭 Currently learning about **AI-powered applications, MERN stack, and advanced game mechanics!**
-
-      📧 Reach me at **[ansariisbah427@gmail.com](mailto:ansariisbah427@gmail.com)**
+    <td width="50%" valign="top">
+      <p>👩🏻‍💻 A passionate <strong>Full Stack Developer | Game Developer | Software Engineer</strong></p>
+      <p>👩🏻‍🎓 <strong>4th year (7th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
+      <p>💭 Currently learning about <strong>AI-powered applications, MERN stack, and advanced game mechanics!</strong></p>
+      <p>📧 Reach me at <a href="mailto:ansariisbah427@gmail.com"><strong>ansariisbah427@gmail.com</strong></a></p>
     </td>
-    <td width="50%">
-    
+    <td width="50%" valign="top">
       <p align="center">
-        <img src="/about.gif" alt="Intro Text" />
+        <img src="/about.gif" alt="Intro Text" width="100%" />
       </p>
-      
     </td>
-    
   </tr>
 </table>
+
 
 ---
 
