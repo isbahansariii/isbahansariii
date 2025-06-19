@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-  <h1 style="font-family: Georgia, serif">Hi, I'm Isbah Ansari!</h1>
+  <h1 style="font-family: Georgia, serif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />Hi, I'm Isbah Ansari!</h1>
   <h2 style="font-family: Georgia, serif">MERN Stack Developer</h2>
 </div>
 
