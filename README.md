@@ -2,28 +2,36 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
   <span style="font-family: Georgia, serif">Hi, I'm Isbah Ansari!</span>
 </h1>
-<h2>MERN Stack Developer</h2>
+<h2 align="center">MERN Stack Developer</h2>
 
 <p align="center">
   <img src="/Banner.png" alt="Intro Text" width="90%" />
 </p>
 
-<details open>
-  <summary><strong>🚀 About Me</strong></summary>
-  <br />
-  <p align="center">
-    <img src="/about.gif" alt="Intro Image" width="60%" />
-  </p>
-  <p>👩🏻‍💻 A passionate <strong>Full Stack Developer | Game Developer | Software Engineer</strong></p>
-  <p>👩🏻‍🎓 <strong>4th year (8th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
-  <p>💭 Currently learning about <strong>AI-powered applications, MERN stack, and advanced game mechanics!</strong></p>
-  <p>
-    <a href="mailto:ansariisbah427@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-ansariisbah427@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Badge" />
-    </a>
-  </p>
-</details>
+<!-- Responsive About Section -->
+<div align="center">
+  <picture style="display: flex; flex-wrap: wrap; justify-content: center;">
+    
+    <!-- Left Column: Text -->
+    <div style="flex: 1; min-width: 300px; max-width: 500px; padding: 10px;">
+      <h1>🚀 About Me</h1> 
+      <p>👩🏻‍💻 A passionate <strong>Full Stack Developer | Game Developer | Software Engineer</strong></p>
+      <p>👩🏻‍🎓 <strong>4th year (8th semester)</strong> Computer Science student at DCS-UBIT, University of Karachi (UOK), admitted in 2022.</p>
+      <p>💭 Currently learning about <strong>AI-powered applications, MERN stack, and advanced game mechanics!</strong></p>
+      <p>
+        <a href="mailto:ansariisbah427@gmail.com">
+          <img src="https://img.shields.io/badge/Contact_Me-ansariisbah427@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Badge" />
+        </a>
+      </p>
+    </div>
 
+    <!-- Right Column: Image -->
+    <div style="flex: 1; min-width: 300px; max-width: 500px; padding: 10px;">
+      <img src="/about.gif" alt="Intro Image" width="100%" />
+    </div>
+    
+  </picture>
+</div>
 
 ---
 
